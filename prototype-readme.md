@@ -2,7 +2,7 @@
 
 **Level:** Working
 
-NEO là prototype web chat cho Vietnam Airlines, tập trung vào 4 luồng chính: tìm vé đa điều kiện, tư vấn nhóm/phức tạp, check-in online bằng PNR/PDF và chăm sóc chủ động cho hội viên Lotusmiles. Prototype hiện chạy theo mô hình VNA-only, dùng dữ liệu cục bộ và backend FastAPI để demo an toàn các luồng đặt vé, check-in và phản hồi dịch vụ.
+NEO là prototype web chat cho Vietnam Airlines, tập trung vào 4 luồng chính: tìm vé đa điều kiện, tư vấn nhóm/phức tạp, check-in online bằng PNR/PDF và chăm sóc chủ động cho hội viên Lotusmiles. Prototype hiện chạy theo mô hình VNA-only, dùng dữ liệu cục bộ và backend FastAPI để demo an toàn các luồng đặt vé, check-in và phản hồi dịch vụ
 
 **Link prototype:** 
 

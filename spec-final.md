@@ -6,7 +6,7 @@ Tài liệu này chuẩn hóa lại bản phân tích Business Model Canvas Viet
 
 ## 1. Mục tiêu sản phẩm
 
-NEO được thiết kế để giảm ma sát trong các tác vụ phổ biến của Vietnam Airlines: tìm vé, lọc đa trường, check-in online, tư vấn chuyến bay và hỗ trợ nhóm hành khách phức tạp. So với giao diện web truyền thống, prototype hiện tại chuyển trọng tâm sang hội thoại tự nhiên, cho phép người dùng mô tả nhu cầu bằng tiếng Việt và nhận phản hồi theo card UI hoặc luồng check-in trực quan.
+NEO được thiết kế để giảm ma sát trong các tác vụ phổ biến của Vietnam Airlines: tìm vé, lọc đa trường, check-in online, tư vấn chuyến bay và hỗ trợ nhóm hành khách phức tạp. So với giao diện web truyền thống, prototype hiện tại chuyển trọng tâm sang hội thoại tự nhiên, cho phép người dùng mô tả nhu cầu bằng tiếng Việt và nhận phản hồi theo card UI hoặc luồng check-in trực quan
 
 ## 2. Đối chiếu giữa Canvas và prototype hiện tại
 
