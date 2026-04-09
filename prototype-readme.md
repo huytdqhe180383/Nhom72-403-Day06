@@ -21,4 +21,4 @@ NEO là prototype web chat cho Vietnam Airlines, tập trung vào 4 luồng chí
 | Tổng hợp yêu cầu & viết spec, Solution & After  | Phạm Đan Kha - 2A202600253 |
 | Frontend chat / tickets / check-in & Live Demo| Trần Đặng Quang Huy - 2A202600292|
 | Backend API & dữ liệu cục bộ | Nguyễn Duy Hiếu - 2A202600153
-| Test & chỉnh sửa nội dung & Problem Statement | Vũ Đức Kiên - 2A202600338 |
+| Test & chỉnh sửa nội dung & Problem Statement | 2A202600338-Vũ Đức Kiên |
